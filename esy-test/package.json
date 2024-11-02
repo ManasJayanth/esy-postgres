@@ -3,6 +3,6 @@
     "build": "psql --version"
   },
   "dependencies": {
-    "postgresql": "*"
+    "esy-postgresql": "*"
   }
 }
